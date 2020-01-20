@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/caputomarcos/my-app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/caputomarcos/my-app/static/js/main.12f0f10c.chunk.js",
+    "main.js.map": "/caputomarcos/my-app/static/js/main.12f0f10c.chunk.js.map",
+    "runtime-main.js": "/caputomarcos/my-app/static/js/runtime-main.f4c9a6a5.js",
+    "runtime-main.js.map": "/caputomarcos/my-app/static/js/runtime-main.f4c9a6a5.js.map",
+    "static/js/2.b6fabe4d.chunk.js": "/caputomarcos/my-app/static/js/2.b6fabe4d.chunk.js",
+    "static/js/2.b6fabe4d.chunk.js.map": "/caputomarcos/my-app/static/js/2.b6fabe4d.chunk.js.map",
+    "index.html": "/caputomarcos/my-app/index.html",
+    "precache-manifest.83aaf88e5dd6597d576cb5dcd7c6d357.js": "/caputomarcos/my-app/precache-manifest.83aaf88e5dd6597d576cb5dcd7c6d357.js",
+    "service-worker.js": "/caputomarcos/my-app/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/caputomarcos/my-app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.b6fabe4d.chunk.js.LICENSE": "/caputomarcos/my-app/static/js/2.b6fabe4d.chunk.js.LICENSE",
+    "static/media/logo.svg": "/caputomarcos/my-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4c9a6a5.js",
+    "static/js/2.b6fabe4d.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.12f0f10c.chunk.js"
+  ]
+}
